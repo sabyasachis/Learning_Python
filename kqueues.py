@@ -1,3 +1,4 @@
+# Comment 1,2
 class KQueues: 
     def __init__(self, number_of_queues, array_length): 
         self.number_of_queues = number_of_queues 
